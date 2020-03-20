@@ -1,20 +1,14 @@
+[![Latest Version on Flutter](https://img.shields.io/badge/Flutter-1.12.13-blue)](https://flutter.dev/docs/get-started/install)  [![Latest Version on Android Studio](https://img.shields.io/badge/Android%20Studio-3.6.1-green)](https://developer.android.com/studio)
+
 # BMI Calculator
 
 ## Tabela de Conteúdo
 - <a href="#informações">Informações</a>
-- <a href="#requisitos">Requisitos</a>
 - <a href="#instalação">Instalação</a>
 - <a href="#desenvolvedor">Desenvolvedor</a>
 
 ## Informações
 Uma calculadora de massa corporal.
-
-## Requisitos
-
-| Requisito | Versão | Link |
-| ------ | ------ | ----- |
-| Flutter | >= 1.12.13 | https://flutter.dev |
-| Android Studio | >= 3.6.1 | https://developer.android.com/studio |
 
 ## Instalação
 
