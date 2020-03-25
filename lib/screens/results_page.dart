@@ -5,6 +5,13 @@ import '../components/reusable_card.dart';
 import '../components/bottom_button.dart';
 
 class ResultsPage extends StatelessWidget {
+  ResultsPage(
+      {@required this.imcResult,
+      @required this.resultText,
+      @required this.interpretationText});
+
+  final String imcResult, resultText, interpretationText;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -34,15 +41,15 @@ class ResultsPage extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    'NORMAL',
+                    resultText.toUpperCase(),
                     style: kResultTextStyle,
                   ),
                   Text(
-                    '20.0',
+                    imcResult,
                     style: kBMITextStyle,
                   ),
                   Text(
-                    'Seus resultado é pouco',
+                    interpretationText,
                     textAlign: TextAlign.center,
                     style: kBodyTextStyle,
                   ),
