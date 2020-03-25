@@ -2,6 +2,8 @@
 
 # BMI Calculator
 
+![Calculadora IMC](Calculadora IMC.gif)
+
 ## Tabela de Conteúdo
 - <a href="#informações">Informações</a>
 - <a href="#instalação">Instalação</a>
