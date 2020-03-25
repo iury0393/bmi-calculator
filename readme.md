@@ -2,7 +2,7 @@
 
 # BMI Calculator
 
-![Calculadora IMC](Calculadora IMC.gif)
+![Calculadora IMC](Calculadora_IMC.gif)
 
 ## Tabela de Conteúdo
 - <a href="#informações">Informações</a>
